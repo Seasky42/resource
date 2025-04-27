@@ -1,0 +1,141 @@
+{
+    "Summary": {
+        "YooVersion": "2.3.8",
+        "UnityVersion": "2021.3.35f1",
+        "BuildDate": "2025/4/27 15:18:37",
+        "BuildSeconds": 20,
+        "BuildTarget": 13,
+        "BuildPipeline": "BuiltinBuildPipeline",
+        "BuildBundleType": 2,
+        "BuildPackageName": "DefaultPackage",
+        "BuildPackageVersion": "2025-04-27-917",
+        "BuildPackageNote": "2025/4/27 15:18:16",
+        "UniqueBundleName": false,
+        "EnableAddressable": true,
+        "LocationToLower": false,
+        "IncludeAssetGUID": false,
+        "AutoCollectShaders": true,
+        "IgnoreRuleName": "YooAsset.Editor.NormalIgnoreRule",
+        "ClearBuildCacheFiles": false,
+        "UseAssetDependencyDB": false,
+        "EnableSharePackRule": true,
+        "SingleReferencedPackAlone": true,
+        "EncryptionClassName": "null",
+        "FileNameStyle": 0,
+        "CompressOption": 2,
+        "DisableWriteTypeTree": false,
+        "IgnoreTypeTreeChanges": true,
+        "WriteLinkXML": true,
+        "CacheServerHost": "",
+        "CacheServerPort": 0,
+        "BuiltinShadersBundleName": "",
+        "MonoScriptsBundleName": "",
+        "AssetFileTotalCount": 5,
+        "MainAssetTotalCount": 5,
+        "AllBundleTotalCount": 2,
+        "AllBundleTotalSize": 1105058,
+        "EncryptedBundleTotalCount": 0,
+        "EncryptedBundleTotalSize": 0
+    },
+    "AssetInfos": [
+        {
+            "Address": "HotUpdate.dll",
+            "AssetPath": "Assets/MyAsset/Codes/HotUpdate.dll.bytes",
+            "AssetGUID": "e30d733a4a5425d41b15a558e7ef7ed1",
+            "AssetTags": [],
+            "MainBundleName": "assets_myasset_codes.bundle",
+            "MainBundleSize": 959493,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "mscorlib.dll",
+            "AssetPath": "Assets/MyAsset/Codes/mscorlib.dll.bytes",
+            "AssetGUID": "5996ec81eba1a244e995400c7b4c33bb",
+            "AssetTags": [],
+            "MainBundleName": "assets_myasset_codes.bundle",
+            "MainBundleSize": 959493,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "System.Core.dll",
+            "AssetPath": "Assets/MyAsset/Codes/System.Core.dll.bytes",
+            "AssetGUID": "98e8010bf40cf7b478694848f3539609",
+            "AssetTags": [],
+            "MainBundleName": "assets_myasset_codes.bundle",
+            "MainBundleSize": 959493,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "System.dll",
+            "AssetPath": "Assets/MyAsset/Codes/System.dll.bytes",
+            "AssetGUID": "e1190766ca9af694eaa40bf41fa789cd",
+            "AssetTags": [],
+            "MainBundleName": "assets_myasset_codes.bundle",
+            "MainBundleSize": 959493,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "Cube",
+            "AssetPath": "Assets/MyAsset/Prefabs/Cube.prefab",
+            "AssetGUID": "e64c5f7153f59124ea1f70fec07bc825",
+            "AssetTags": [],
+            "MainBundleName": "assets_myasset_prefabs_cube.bundle",
+            "MainBundleSize": 145565,
+            "DependAssets": [],
+            "DependBundles": []
+        }
+    ],
+    "BundleInfos": [
+        {
+            "BundleName": "assets_myasset_codes.bundle",
+            "FileName": "2931bfbc3b81bc3c9f402ccc3f18a99d.bundle",
+            "FileHash": "2931bfbc3b81bc3c9f402ccc3f18a99d",
+            "FileCRC": "49bdc8db",
+            "FileSize": 959493,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/MyAsset/Codes/HotUpdate.dll.bytes",
+                    "AssetGUID": "e30d733a4a5425d41b15a558e7ef7ed1"
+                },
+                {
+                    "AssetPath": "Assets/MyAsset/Codes/mscorlib.dll.bytes",
+                    "AssetGUID": "5996ec81eba1a244e995400c7b4c33bb"
+                },
+                {
+                    "AssetPath": "Assets/MyAsset/Codes/System.Core.dll.bytes",
+                    "AssetGUID": "98e8010bf40cf7b478694848f3539609"
+                },
+                {
+                    "AssetPath": "Assets/MyAsset/Codes/System.dll.bytes",
+                    "AssetGUID": "e1190766ca9af694eaa40bf41fa789cd"
+                }
+            ]
+        },
+        {
+            "BundleName": "assets_myasset_prefabs_cube.bundle",
+            "FileName": "5abf940b844e9a98173cd66780fcb0b1.bundle",
+            "FileHash": "5abf940b844e9a98173cd66780fcb0b1",
+            "FileCRC": "960d6fe4",
+            "FileSize": 145565,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/MyAsset/Prefabs/Cube.prefab",
+                    "AssetGUID": "e64c5f7153f59124ea1f70fec07bc825"
+                }
+            ]
+        }
+    ],
+    "IndependAssets": []
+}
