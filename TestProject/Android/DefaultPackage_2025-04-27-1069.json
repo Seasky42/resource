@@ -7,8 +7,8 @@
     "BuildBundleType": 2,
     "BuildPipeline": "BuiltinBuildPipeline",
     "PackageName": "DefaultPackage",
-    "PackageVersion": "2025-04-27-917",
-    "PackageNote": "2025/4/27 15:18:16",
+    "PackageVersion": "2025-04-27-1069",
+    "PackageNote": "2025/4/27 17:49:48",
     "AssetList": [
         {
             "Address": "HotUpdate.dll",
@@ -54,20 +54,20 @@
     "BundleList": [
         {
             "BundleName": "assets_myasset_codes.bundle",
-            "UnityCRC": 3595224811,
-            "FileHash": "2931bfbc3b81bc3c9f402ccc3f18a99d",
-            "FileCRC": "49bdc8db",
-            "FileSize": 959493,
+            "UnityCRC": 213409190,
+            "FileHash": "1bbc1a042fbfad90526e46622991bde5",
+            "FileCRC": "6d4cfb74",
+            "FileSize": 959488,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": []
         },
         {
             "BundleName": "assets_myasset_prefabs_cube.bundle",
-            "UnityCRC": 2064544780,
-            "FileHash": "5abf940b844e9a98173cd66780fcb0b1",
-            "FileCRC": "960d6fe4",
-            "FileSize": 145565,
+            "UnityCRC": 3302970658,
+            "FileHash": "f0f297ec514964175ed22fa2803101f2",
+            "FileCRC": "f334f586",
+            "FileSize": 145575,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": []
